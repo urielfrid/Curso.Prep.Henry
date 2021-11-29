@@ -1,0 +1,2 @@
+Un array es como una variable formada por un conjunto de elementos que pueden ser otras variables de cualquier tipo. 
+A cada elemento se le asigna una ubicación dentro del array que empieza de 0 con el cual puedo invocar o llamar el elemento que se encuentra en este ubicación. 
