@@ -1,0 +1,8 @@
+For: Es una estructura repetitiva. Cuenta de 3 partes, primero se debe definir una variable, luego establecer una condición y luego definir cómo cambia esta variable en cada iteración.
+El bloque de código que lleva dentro, se ejecutará hasta que la condición deje de cumplirse.
+
+&&: Es un operador lógico que me permite unir expresiones. La expresión resultante será verdadera siempre y cuando todas las expresiones dentro lo sean. Con que una sea falsa, toda la evaluación sera falsa.
+
+||:  Es un operador lógico que me permite unir expresiones. La expresión resultante será verdadera si alguna de las expresiones dentro lo es. Sólo será falsa cuando todas sean verdaderas.
+
+!: Es un operador lógico que implica negación. Devolverá el valor booleano opuesto a lo que se aplique.
