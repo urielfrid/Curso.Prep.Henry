@@ -1,0 +1,11 @@
+Las variables son elementos que almacenan un valor. Existen distintos tipos de variables según el tipo de valor o datos que almacena.
+
+String: Es el tipo de variable que almacena datos en forma de texto o caracteres.
+
+Una función es un pedazo de código que pueder invocado en cualquier momento. 
+Los argumentos son variables que se definen dentro dentro del scope de la función.
+Return es lo que devuelve la funcion, es decir lo que se imprime en la consiola, cuando el intérprete ejecuta la función. El return termina la función, lo que está por debajo no se ejecuta.
+
+Declaraciones - If: Se plantea una condición que puede ser verdadera o falsa y según sea ese valor, se ejecuta un código u otro.
+
+Vaores Boleeanos: Son variables que pueden tomar dos valores: true o false.
