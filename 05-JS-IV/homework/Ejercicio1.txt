@@ -1,0 +1,10 @@
+Objeto: Un objeto es una variable que contiene propiedades que almacenan un elemento sin un orden en específico.
+
+Propiedades: Corresponden a un objeto y almacenan elementos de cualquier tipo sin un orden como en los arrays
+
+Método: es una propiedad de un objeto que es una función
+
+Bucle for...in: Estructura iterativa que recorre las propiedades de un objeto
+
+Notación puntos vs notación corchetes: Son dos maneras diferentes de llamar a una propiedad de un objeto.
+objeto["propiedad"] vs objeto.propiedad. La notación de puntos no puede contener una variable.
