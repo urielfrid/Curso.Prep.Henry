@@ -1,0 +1,5 @@
+Constructor de Clases: por decirlo de alguna manera, son "objetos genéricos". Son un conjunto de propiedades y métodos que al instanciarlos, generan un objeto con dichas propiedades.
+
+Prototype: Cada objeto está basado en otro objeto y como tal, comparte sus atributos y propiedades. 
+Los prototypes son los objetos en los que se basan los objetos, en él se definen propiedades y atributos que mantendrán lo objetos que se basen en este.
+Sirve para acumular métodos que compartirán varios objetos.
